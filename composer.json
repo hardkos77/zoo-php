@@ -4,7 +4,9 @@
     "license": "1.0",
     "autoload": {
         "psr-4": {
-            "Jlh\\ZooPhp\\": "src/"
+            "App\\": "src/",
+            "Animals\\": "Classes/Animals/",
+            "Metiers\\": "Classes/Soigneurs/"
         }
     },
     "authors": [

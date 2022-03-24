@@ -1,0 +1,26 @@
+Un zoo peut avoir plusieurs animaux (de toute espèce)
+• Un zoo peut avoir plusieurs emplacements (enclos) ONE TO MANY
+• Un animal peut être ajouté ou retiré du zoo
+• Un animal peut être affecté à un seul emplacement
+• Un employé (Soigneur) peut avoir plusieurs animaux à sa charge → Ainsi que
+les enclos qui correspondent à ces animaux
+• Un employé doit connaitre le type d’alimentation d’un animal
+
+• Plusieurs enclos
+• Chaque enclos doit avoir sa taille
+• Chaque enclos doit avoir son environnement (grotte, foret / feuillage, cage, bassin
+d’eau, terre...)
+• Chaque enclos doit avoir son identifiant (soit un nombre, soit un ensemble de
+caractère comme « A102 »)
+• Savoir si un enclos est vide ou non
+• Un enclos peut avoir zéro ou plusieurs animaux (avec une capacité maximale défini)
+
+Une page avec la liste des enclos du zoo (ainsi que des informations comme le fait de savoir si l’enclos est
+occupé ou non, combien d’animaux y son affectés, l’environnement et l’identifiant de l’enclos) → Affichage
+format « Card » recommandé mais ne sera pas noté le design (tableau : OK).
+• Une page de l’enclos affichant les informations de l’enclos (cf. caractéristiques minimum) + la liste des
+animaux présent dans l’enclos (idem pour l’affichage)
+• Une page d’information d’un animal avec les caractéristiques de l’animal + liste des soigneurs affectés à cet
+animal + la liste des animaux présents dans le même enclos
+• Une fiche du soigneur ainsi que la liste des animaux dont il s’occupe
+• Un formulaire pour ajouter un employé, un autre pour l’animal (ainsi que toutes les informations nécessaires)
