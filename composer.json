@@ -1,0 +1,17 @@
+{
+    "name": "jlh/zoo-php",
+    "description": "Thème Zoo",
+    "license": "1.0",
+    "autoload": {
+        "psr-4": {
+            "Jlh\\ZooPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JLH"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
